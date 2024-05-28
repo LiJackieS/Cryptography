@@ -14,7 +14,7 @@ Project consists of a python program that uses public-key cryptography to enable
 <h2>Environments Used </h2>
 
 - <b>Visual Studio Code</b>
-- <b>jupyter notebook</b>
+- <b>jupyter notebook for unit testing</b>
 
 <h2>Program walk-through:</h2>
 
